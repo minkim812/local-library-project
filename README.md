@@ -16,3 +16,11 @@ This project is designed to test your ability to work with large datasets and bu
 -Using find(), filter(), map(), some(), and every() to solve different problems
 -Using reduce() to solve different problems
 -Using sort() to sort arrays in various ways
+
+Requirements to pass
+For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the following lesson.
+-The project doesn't include any single-letter variables.
+-The project makes at least one use of an arrow function.
+-The project makes at least one use of each of the following native array methods: find(), filter(), map(), and reduce().
+-The project employs at least one helper function, which helps support the tested functions.
+-The project uses at least two of the following JavaScript features: the ternary operator, the spread operator, object shorthand, array or object destructuring, and for/in loops.
